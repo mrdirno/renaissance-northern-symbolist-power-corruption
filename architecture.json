@@ -1,0 +1,77 @@
+{
+  "book_id": "renaissance-northern-symbolist-power-corruption",
+  "title": "The Vessel of Testimony",
+  "tagline": "A master forger seeks to correct a corrupt world, but his greatest creation may be a window for the very power he despises.",
+  "target_words": 73942,
+  "actual_words": 73942,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Corruption of Authenticity",
+    "Forgery as Creation and Heresy",
+    "The Silence Beneath Power",
+    "Sacred and Profane Obsession"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Chalice of Dying Light",
+      "words": 6161
+    },
+    {
+      "ch": 2,
+      "title": "Where Power Resides in Dust",
+      "words": 6161
+    },
+    {
+      "ch": 3,
+      "title": "A Whispering Veil for Hauntings",
+      "words": 6161
+    },
+    {
+      "ch": 4,
+      "title": "Penitent on the Zwijgende Vrouw",
+      "words": 6161
+    },
+    {
+      "ch": 5,
+      "title": "Noise Mistaken for Music",
+      "words": 6161
+    },
+    {
+      "ch": 6,
+      "title": "The Broken Instrument",
+      "words": 6161
+    },
+    {
+      "ch": 7,
+      "title": "A Lodestone in the Dark",
+      "words": 6161
+    },
+    {
+      "ch": 8,
+      "title": "The Hollow Under the Stone",
+      "words": 6161
+    },
+    {
+      "ch": 9,
+      "title": "A Throne of Wet Ash",
+      "words": 6161
+    },
+    {
+      "ch": 10,
+      "title": "Ink of a Winter River",
+      "words": 6161
+    },
+    {
+      "ch": 11,
+      "title": "Translation on Hammered Lead",
+      "words": 6161
+    },
+    {
+      "ch": 12,
+      "title": "The Vessel of Testimony",
+      "words": 6161
+    }
+  ]
+}
